@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<h1>About the author</h1>
+I've finally decided that after over 10 years of working in the digital industry it was about time I learned to code myself. 
+My name is Elaine Zuniga and this is a blog about my 10 week journey from knowing the absolute basics of HTML to hopefully learning a whole lot more including CSS, Java, JQuery and more.
+Let the journey begin!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
