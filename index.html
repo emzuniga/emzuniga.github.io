@@ -2,22 +2,65 @@
 layout: default
 ---
 
- 
-<div class="home">
 
+<div class="home">
+<!--BEGIN ABOUT SECTION-->
+<section class="about">
+<div class="row">
+  <div class="small-12 column">
+    <h2 id="about-nav">About</h2>
+      <p class="quote">
+        "A party without cake is just a meeting." <br>
+        - Julia Child
+      </p>
+      <p>I've been baking since is I was a kid. Often my cakes would come out of the oven raw in the middle or just completely terrible. I used to watch my mother effortlessly throw indredients in a bowl, turn on the oven and watch a masterpice come alive. Over the years I have come to learn the amount of practice, patience and precision that went into every spoonful, every pinch, every ingrdient that my mother baked.</p>
+
+      <p>Baking really is a labor of love, the first batch rarely turns out perfect. And I'm happy to say that my days of underbaked cakes and over salted cookies are behind me. I've learned from one of the best and I continue to learn as I try new recipes and revise a few of the old-faithful. I hope you enjoy some of my favorites posted here. </p>
+    </div>
+</div>
+</section>
+  
+  <!-- BEGIN RECIPE POST SECTION -->
+<section class="recipe-box">
+  <h2 id="recipe-box-nav">Recipe Box</h2>
+<div class="row">
+   {% for post in site.posts %}
+  <div class="small-12 large-4 column">
+    <div class="thumbnail-photo">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="/{{ post.recipephoto }}"></a>
+      </div>
+  </div>
+  {% endfor %}
+</div>
+</section>
+
+<!--BEGIN RESOURCE SECTION-->
+<section class="baking-essentials">
+  <div class="row">
+    <div class="small-12 column">
+       <h2 id="baking-essentials-nav">Baking Essentials</h2>
+    </div>
+  </div>
+</section>
+
+<!-- HIDING JEKYLL POST LIST DEFAULT 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        <div class="thumbnail-photo">
+        <img src="/{{ post.recipephoto }}">
+        </div>
+        
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.excerpt }}</p>
+
       </li>
     {% endfor %}
   </ul>
+  
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  -->
 
 </div>

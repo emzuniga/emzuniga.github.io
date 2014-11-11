@@ -2,37 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-.site-header {
-	background-color: #e3fc03;
-	padding: 10px 0;
-}
-
-.site-header h1{
-	padding: 20px 0;
-	color: #848187;
-	font-size: 40px;
-	text-align: center;
-}
-
-h2{
-	color: #2e2728;
-	font-size: 20px;
-}
-
-.post-link, 
-.post-link:visited{
-	color: black;
-	
-}
-.post-link:hover{
-	color:#e3fc03;
-}
 
 
-p{
-	font-size: 14px;
-	color: #848187;
-}
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;

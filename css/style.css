@@ -1,0 +1,59 @@
+p {
+	color: #404040;
+}
+h1 {
+	text-align: center;
+	font-size: 1.3em;
+}
+h2 {
+	text-align: center;
+	font-size: 2em;
+}
+.header-home {
+	width: 100%;
+	max-width: 2048px;
+}
+.page-content {
+	padding:0;
+}
+.nav-home-wrapper {
+	height: 100%;
+}
+
+.navigation {
+	text-align: center;
+	color:#404040;
+	font-size: 1.5em;
+}
+
+.wrapper-home{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	max-width: 2048px;
+}
+
+.recipe-box {
+	
+}
+.thumbnail-photo {
+	height: 300px;
+	width: 300px;
+}
+.about {
+	height: 400px;
+	width: 100%;
+	position: center;
+	color: #757575;
+	background-color: #81d8d0;
+}
+.baking-essentials {
+	height: 400px;
+}
+.header-home {
+	max-height: 500px;
+
+}
+.home {
+	width: 100%;
+}
