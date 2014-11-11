@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Browned Butter Chocolate Chip Cookies 
-date:   2014-11-03 20:55:38
 categories: cookies
 recipephoto: images/bbChocolateChip1.jpg
 ---
