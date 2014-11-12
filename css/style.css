@@ -20,6 +20,12 @@ h2 {
 a img{
 	border-radius: 50%;
 }
+img:hover {
+	background-color: #fcadad;
+}
+img.header-home{
+	border-bottom: 0.3em solid #b5b5b5;
+}
 header h1 {
 	font-size: 1.2em;
 	position: relative;
@@ -73,13 +79,12 @@ header h1 {
 	max-width: 2048px;
 }
 
-.recipe-box {
-	
-}
+
 .thumbnail-photo {
-	height: 300px;
-	width: 300px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
+
 .about {
 
 	width: 100%;
@@ -194,4 +199,7 @@ li{
 }
 .post-meta{
 	display: none;
+}
+.print-button{
+	float:right;
 }
