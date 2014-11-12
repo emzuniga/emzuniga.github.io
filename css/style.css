@@ -53,7 +53,7 @@ header h1 {
 .nav {
 	 
 	background-color: #ffffff;
-	border-bottom: 0.2em solid #b5b5b5;
+	
 	
 
 }
@@ -106,6 +106,7 @@ header h1 {
 	color: #757575;
 	background-color: #afeeee;
 	border-bottom: 3px solid #9dd6d6;
+	border-top: 3px solid #9dd6d6;
 	padding-top: 40px;
 
 
