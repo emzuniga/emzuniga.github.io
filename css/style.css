@@ -16,7 +16,9 @@ h2 {
 	font-family: Garamond;
 	color: #404040;
 }
-
+a {
+	color:#404040;
+}
 a img{
 	border-radius: 50%;
 }
@@ -37,7 +39,7 @@ header h1 {
 	font-weight: bold;
 }
 .recipe-list{
-	padding-top: 30px;
+	padding-top: 50px;
 	padding-bottom: 30px;
 	border-bottom: 0.3em solid #b5b5b5;
 }
@@ -49,7 +51,11 @@ header h1 {
 	padding:0;
 }
 .nav {
-	height: 100%; 
+	 
+	background-color: #ffffff;
+	border-bottom: 0.2em solid #b5b5b5;
+	
+
 }
 .sticky {  
     position: fixed;  
@@ -68,6 +74,7 @@ header h1 {
 	text-align: center;
 	color:#404040;
 	font-size: 1.5em;
+	
 }
 
 .wrapper-home{
@@ -81,8 +88,17 @@ header h1 {
 .thumbnail-photo {
 	margin-top: 10px;
 	margin-bottom: 20px;
+	background-color:#FCADAD; 
+	border-radius: 50%;
 }
 
+
+.thumbnail-photo a:hover img
+{opacity: 0.5;}
+
+#about-nav{
+
+}
 .about {
 
 	width: 100%;
@@ -90,7 +106,8 @@ header h1 {
 	color: #757575;
 	background-color: #afeeee;
 	border-bottom: 3px solid #9dd6d6;
-	border-top: 3px solid #9dd6d6;
+	padding-top: 40px;
+
 
 }
 .baking-essentials {
@@ -121,10 +138,10 @@ header h1 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 30px;
+	margin-top: 40px;
 	width: 50%;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 30px;
+	padding-bottom: 20px;
 	font-size: 1.7em;
 	font-family: Garamond;
 }
@@ -139,13 +156,15 @@ button {
 }
 a:link{
 	text-decoration: none;
+	color: #404040;
+}
+a:visited {
+	color: #404040;
 }
 a:hover{
 	color:#ffffff;
 }
-a:active{
-	background-color: #404040;
-}
+
 .navigation a:hover{
 	color:#fb8b8b;
 }

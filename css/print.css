@@ -1,13 +1,20 @@
 .site-header-recipe {
-	visibility:hidden;
+	display:none;
 }
 .print {
 	visibility:visible;
 }
 .site-footer{
-	visibility: hidden;
+	display: none;
 }
 img {
 	max-height: 400px;
 	max-width: 400px;
+	
+}
+h1 {
+	font-size: 14px;
+}
+.intro-story{
+	display: none;
 }
