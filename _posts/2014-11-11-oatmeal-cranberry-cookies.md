@@ -11,7 +11,8 @@ recipephoto: images/oatmealCranberry.jpg
 	</p>
 </div>
 
-### Ingredients:
+
+<h2>Ingredients</h2>
 
 * 3 Cups Rolled Oats 
 * 1 ½ Cups Flour
@@ -31,7 +32,7 @@ recipephoto: images/oatmealCranberry.jpg
 <!-- instructions -->
 <div class="instructions">
 
-<h3>Instructions:</h3>
+<h2>Instructions:</h2>
 
 <p>1. Pre-heat oven to 350 degrees</p>
 <p>2. Prepare cookie sheets with parchment paper</p>

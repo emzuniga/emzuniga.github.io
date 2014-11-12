@@ -7,7 +7,9 @@ recipephoto: images/oliveOilSeaSaltBrownie.jpg
 ---
 
 
-### Ingredients:
+<div class="intro-story"></div>
+
+<h2>Ingredients</h2>
 
 * ½ cup olive oil
 * 1 cup sugar
@@ -23,7 +25,7 @@ recipephoto: images/oliveOilSeaSaltBrownie.jpg
 <!-- instructions -->
 <div class="instructions">
 
-<h3>Instructions:</h3>
+<h2>Instructions</h2>
 
 <p>1. Preheat oven to 350 degrees and line baking sheets with parchment paper.</p>
 <p>2. In the bowl of a stand mixer, add the olive oil and sugar and mix until well combined.</p>

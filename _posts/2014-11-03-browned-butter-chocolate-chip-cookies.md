@@ -5,8 +5,9 @@ categories: cookies
 recipephoto: images/bbChocolateChip1.jpg
 ---
 
+<div class="intro-story"></div>
 
-### Ingredients:
+<h2>Ingredients</h2>
 
 * 1 ¾ c all-purpose flour
 * ½ tsp baking soda
@@ -24,7 +25,7 @@ recipephoto: images/bbChocolateChip1.jpg
 <!-- instructions -->
 <div class="instructions">
 
-<h3>Instructions:</h3>
+<h2>Instructions</h2>
 
 <p>1. Preheat oven to 375 degrees</p>
 <p>2. Line baking sheets with parchment or silicone baking mats</p>

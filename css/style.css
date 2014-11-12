@@ -1,20 +1,41 @@
 p {
 	color: #404040;
+	font-family: Verdana;
+	font-size: 1em;
 }
 h1 {
 	text-align: center;
-	font-size: 1.3em;
+	font-size: 1em;
+	color: #404040;
+	font-family: Baskerville; 
+	font-weight: bold;
 }
 h2 {
 	text-align: center;
 	font-size: 2em;
+	font-family: Garamond;
+	color: #404040;
 }
+
 a img{
 	border-radius: 50%;
 }
 header h1 {
-	font-size: 1em;
+	font-size: 1.2em;
 	position: relative;
+}
+#recipe-box-nav{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #e5e5e5;
+	margin-top: 0;
+	border-bottom: 0.1em solid #b5b5b5;
+	font-weight: bold;
+}
+.recipe-list{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 0.3em solid #b5b5b5;
 }
 .header-home {
 	width: 100%;
@@ -34,6 +55,10 @@ header h1 {
     z-index: 100;  
     border-top: 0;  
 } 
+.home-content{
+	padding-top:40px;
+	padding-bottom: 30px;
+}
 
 .navigation {
 	text-align: center;
@@ -56,20 +81,117 @@ header h1 {
 	width: 300px;
 }
 .about {
-	height: 400px;
+
 	width: 100%;
 	position: center;
 	color: #757575;
 	background-color: #afeeee;
-}
-.baking-essentials {
-	height: 400px;
-	background-color: #fb8b8b;
-}
-.header-home {
-	max-height: 500px;
+	border-bottom: 3px solid #9dd6d6;
+	border-top: 3px solid #9dd6d6;
 
 }
+.baking-essentials {
+	background-color: #fcadad;
+}
+#baking-essentials-nav{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #fb8b8b;
+	margin-top: 0;
+	border-bottom: 0.1em solid #c86f6f;
+	width: 100%;
+	color:#404040;
+	font-weight: bolder;
+}
+.site-header-home {
+	width: 100%;
+	max-width: 2048px;
+}
+
 .home {
 	width: 100%;
+}
+.quote {
+	text-align: center;
+	background-color: white;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 50%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 1.7em;
+	font-family: Garamond;
+}
+button {
+	margin-left: 50px;
+	margin-top: 30px;
+	background-color: #afeeee;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #888888;
+	font-family: Verdana;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color:#ffffff;
+}
+a:active{
+	background-color: #404040;
+}
+.navigation a:hover{
+	color:#fb8b8b;
+}
+.site-footer{
+	background-color: #e3e3e3;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top: 3px solid #b5b5b5;
+}
+footer .wrapper{
+	margin-right: 0;
+	margin-left: 0;
+}
+.footer-text{
+	font-family: Garamond;
+	color:#404040;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.footer-contact{
+	font-family: Verdana;
+	color:#404040;
+	font-size: 1em;
+}
+.recipe-photo{
+	padding-bottom: 20px;
+}
+.post-content {
+	color:#404040;
+	font-family: Verdana;
+}
+.post-content h2{
+	text-align: left;
+	font-family: Baskerville;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #404040;
+}
+li{
+	font-family: Verdana;
+}
+
+.instructions h2{
+	font-family: Baskerville;
+	font-size: 1.5em;
+	color:#404040;
+	text-align: left;
+	font-weight: bold;
+
+}
+.post-meta{
+	display: none;
 }

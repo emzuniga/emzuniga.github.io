@@ -12,7 +12,7 @@ recipephoto: images/hummingbird2.jpg
 	</p>
 </div>
 
-### Ingredients:
+<h2>Ingredients</h2>
 
 * 3 cups all-purpose flour
 * 1 teaspoon baking soda
@@ -32,7 +32,7 @@ recipephoto: images/hummingbird2.jpg
 <!-- instructions -->
 <div class="instructions">
 
-<h3>Instructions:</h3>
+<h2>Instructions:</h2>
 
 <p>1. Combine first 5 ingredients in a large bowl; add eggs and oil, stirring until dry ingredients are moistened. (Do not beat.) </p>
 <p>2. Stir in vanilla, pineapple, pecans, and bananas.</p>
