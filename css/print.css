@@ -1,0 +1,13 @@
+.site-header-recipe {
+	visibility:hidden;
+}
+.print {
+	visibility:visible;
+}
+.site-footer{
+	visibility: hidden;
+}
+img {
+	max-height: 400px;
+	max-width: 400px;
+}

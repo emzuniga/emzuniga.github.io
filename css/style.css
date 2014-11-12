@@ -20,9 +20,7 @@ h2 {
 a img{
 	border-radius: 50%;
 }
-img:hover {
-	background-color: #fcadad;
-}
+
 img.header-home{
 	border-bottom: 0.3em solid #b5b5b5;
 }
@@ -103,6 +101,7 @@ header h1 {
 	padding-bottom: 5px;
 	background-color: #fb8b8b;
 	margin-top: 0;
+	margin-bottom: 20px;
 	border-bottom: 0.1em solid #c86f6f;
 	width: 100%;
 	color:#404040;
@@ -202,4 +201,9 @@ li{
 }
 .print-button{
 	float:right;
+	margin-right: 50px;
+
+}
+.essentials-links{
+	margin-bottom: 40px;
 }
