@@ -33,7 +33,7 @@ recipephoto: images/oliveOilSeaSaltBrownie.jpg
 <p>1. Preheat oven to 350 degrees and line baking sheets with parchment paper.</p>
 <p>2. In the bowl of a stand mixer, add the olive oil and sugar and mix until well combined.</p>
 <p>3. Add the eggs, one at a time, mixing well between each one.</p>
-<p>4. Add the cocoa powder, flour, and salt and beat until dough forms - it should be the consistency of a thick 	brownie batter. </p>
+<p>4. Add the cocoa powder, flour, cayenne pepper, cinnamon and salt and beat until dough forms - it should be the consistency of a thick brownie batter. </p>
 <p>5. In a small bowl, dissolve the baking soda into the hot water. Add dissolved baking soda and vanilla and beat until well combined.</p>
 <p>6. Stir in the chocolate chips with a spatula.</p>
 <p>7. Freeze the batter for at least 30 minutes.</p>
