@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Olive Oil and Sea Salt Brownie Cookies 
+title:  Spicy Mexican Hot Chocolate Cookies 
 date:   2014-11-03 20:55:38
 categories: cookies
 recipephoto: images/oliveOilSeaSaltBrownie.jpg
